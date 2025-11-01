@@ -1,5 +1,6 @@
 {
   "name": "hexa-gulf",
+  "homepage": "https://github.com/SyedBasha98/hexa-gulf.git",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,7 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-     "predeploy": "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "dependencies": {

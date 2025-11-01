@@ -2206,7 +2206,7 @@ Message: ${formData.message}`;
                 </div>
                 <div className="info-item">
                   <span>📧</span>
-                  <span>info@hexagulf.com</span>
+                  <span>sales@hexagulf.com</span>
                 </div>
                 <div className="info-item">
                   <span>🌐</span>
@@ -2273,7 +2273,7 @@ Message: ${formData.message}`;
                 <a href="#" className="footer-link">LinkedIn</a>
                 <a href="#" className="footer-link">Twitter</a>
                 <a href="#" className="footer-link">YouTube</a>
-                <a href="mailto:info@hexagulf.com" className="footer-link">Email</a>
+                <a href="mailto:sales@hexagulf.com" className="footer-link">Email</a>
               </div>
             </div>
           </div>
